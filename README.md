@@ -2,7 +2,11 @@
 Notes and exercises from the book *Programming Principles and Practice Using C++, 3rd Edition*.
 
 ## File Nomenclature
-d* - Drill  
-r* - Review   
-e* - Exercises  
-<chp-section>.md - Chapter-Section Notes  
+| Filename Pattern | File Type |
+| --- | --- |
+| d* | Drills |
+| r* | Review |
+| e* | Exercises |
+| `chp-section`.md | Chapter-Section Notes |
+
+
