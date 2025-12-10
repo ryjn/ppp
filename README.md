@@ -4,9 +4,9 @@ Notes and exercises from the book *Programming Principles and Practice Using C++
 ## File Nomenclature
 | Filename Pattern | File Type |
 | --- | --- |
-| d* | Drills |
-| r* | Review |
-| e* | Exercises |
+| d-* | Drills-# | 
+| r.md | Review |
+| e-* | Exercises-# |
 | `chp-section`.md | Chapter-Section Notes |
 
 
