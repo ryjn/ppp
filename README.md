@@ -5,7 +5,7 @@ Notes and exercises from the book *Programming Principles and Practice Using C++
 | Filename Pattern | File Type |
 | --- | --- |
 | d-* | Drills-# | 
-| r.md | Review |
+| r-* | Review |
 | e-* | Exercises-# |
 | `chp-section`.md | Chapter-Section Notes |
 
